@@ -1,3 +1,9 @@
 #map{
 	height: 100vh;
 }
+.city-name{
+	cursor: pointer;
+}
+.city-name:hover{
+	color: blue;
+}
